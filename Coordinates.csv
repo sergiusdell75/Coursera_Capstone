@@ -1,4 +1,4 @@
-Postcode,Borough,Neighbourhood,Latitude,longitude
+Postcode,Borough,Neighbourhood,Latitude,Longitude
 M1B,Scarborough,"Rouge, Malvern",43.8113,-79.193
 M1C,Scarborough,"Highland Creek, Rouge Hill, Port Union",43.7878,-79.1564
 M1E,Scarborough,"Guildwood, Morningside, West Hill",43.7678,-79.1866
@@ -15,7 +15,7 @@ M1S,Scarborough,Agincourt,43.7946,-79.2644
 M1T,Scarborough,"Clarks Corners, Sullivan, Tam O'Shanter",43.7812,-79.3036
 M1V,Scarborough,"Agincourt North, L'Amoreaux East, Milliken, Steeles East",43.8177,-79.2819
 M1W,Scarborough,L'Amoreaux West,43.8016,-79.3216
-M1X,Scarborough,Upper Rouge,43.833999999999996,-79.2069
+M1X,Scarborough,Upper Rouge,43.834,-79.2069
 M2H,North York,Hillcrest Village,43.8015,-79.3577
 M2J,North York,"Fairview, Henry Farm, Oriole",43.7801,-79.3479
 M2K,North York,Bayview Village,43.7797,-79.3813
@@ -56,14 +56,14 @@ M5A,Downtown Toronto,Harbourfront,43.6555,-79.3626
 M5B,Downtown Toronto,"Ryerson, Garden District",43.6572,-79.3783
 M5C,Downtown Toronto,St. James Town,43.6513,-79.3756
 M5E,Downtown Toronto,Berczy Park,43.6456,-79.3754
-M5G,Downtown Toronto,Central Bay Street,43.6564,-79.38600000000001
+M5G,Downtown Toronto,Central Bay Street,43.6564,-79.38600000000002
 M5H,Downtown Toronto,"Adelaide, King, Richmond",43.6496,-79.3833
-M5J,Downtown Toronto,"Harbourfront East, Toronto Islands, Union Station",43.623000000000005,-79.3936
+M5J,Downtown Toronto,"Harbourfront East, Toronto Islands, Union Station",43.62300000000001,-79.3936
 M5K,Downtown Toronto,"Design Exchange, Toronto Dominion Centre",43.6469,-79.3823
 M5L,Downtown Toronto,"Commerce Court, Victoria Hotel",43.6492,-79.3823
 M5M,North York,"Bedford Park, Lawrence Manor East",43.7335,-79.4177
 M5N,Central Toronto,Roselawn,43.7113,-79.4195
-M5P,Central Toronto,"Forest Hill North, Forest Hill West",43.6966,-79.41199999999999
+M5P,Central Toronto,"Forest Hill North, Forest Hill West",43.6966,-79.41199999999998
 M5R,Central Toronto,"The Annex, North Midtown, Yorkville",43.6736,-79.4035
 M5S,Downtown Toronto,"Harbord, University of Toronto",43.6629,-79.3987
 M5T,Downtown Toronto,"Chinatown, Grange Park, Kensington Market",43.6541,-79.3978
