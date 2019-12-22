@@ -41,3 +41,9 @@ The purpose of this step is a transformation of the collected data into a useabl
 
 Crime data: the excel table was read in. The first two sheets were ignored. The sheets named  „Fallzahlen\*“  were transformed into panda data frames. The first four rows were dropped in every data frame.  The columns were renamed by translating into english.
 
+School data: scrap for grades using  BeautifulSoup. Save data frames to csv files.
+
+Rental costs data:
+
+Venue data:
+
