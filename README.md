@@ -31,8 +31,8 @@ Rental costs data were collected as follows:
 2. Scrap for the average monthly rental costs.
 
 School data were collected as follows:
-1. Use https://www.statistik-berlin-brandenburg.de/statistiken/Inhalt-Statistiken.asp
-2. Scrap for the top school in the borough.
+1. Use https://www.gymnasium-berlin.net/abiturdaten/2018
+2. Scrap for the avarage grade of schools in the borough for years 2012-2018
 
 
 #### Data Preparation 
