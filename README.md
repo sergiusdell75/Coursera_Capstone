@@ -21,20 +21,20 @@ Local council sites are a good candidate to collect data on the schools, i.e., O
 
 
 Venue data were collected data as followed: 
-Query the FourSqaure website for the top sites in Berlin;
-Use the FourSquare API to get top restaurants and shopping recommendations closest to each of the top site  within a distance.
+1. Query the FourSqaure website for the top sites in Berlin;
+2. Use the FourSquare API to get top restaurants and shopping recommendations closest to each of the top site  within a distance.
 
 Crime data were collected as follows:
-Use open source crime statistics for Berlin  https://www.statistik-berlin-brandenburg.de/regionalstatistiken/r-gesamt_neu.asp?Ptyp=410&Sageb=12015&creg=BBB&anzwer=6  
-Download corresponding historical data as an excel file.
+1. Use open source crime statistics for Berlin  https://www.statistik-berlin-brandenburg.de/regionalstatistiken/r-gesamt_neu.asp?Ptyp=410&Sageb=12015&creg=BBB&anzwer=6  
+2. Download corresponding historical data as an excel file.
 
 Rental costs data were collected as follows:
-Use
-Scrap for the average monthly rental costs.
+1. Use
+2. Scrap for the average monthly rental costs.
 
 School data were collected as follows:
-Use https://www.statistik-berlin-brandenburg.de/statistiken/Inhalt-Statistiken.asp
-Scrap for the top school in the borough.
+1. Use https://www.statistik-berlin-brandenburg.de/statistiken/Inhalt-Statistiken.asp
+2. Scrap for the top school in the borough.
 
 
 ### Data Preparation 
