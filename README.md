@@ -1,7 +1,7 @@
 # Coursera_Capstone
- This notebook will be mainly used for the capstone project
+ This notebook will mainly be used for the capstone project
 
-## Description of the problem and a discussion of the background
+### Description of the problem and a discussion of the background
 
 A relocation is stressful. Ideally, a new hire should be able to fully concentrate on the job requirements without spending lots of time to settle in. A real-estate agency is often approached to find a temporary accommodation for new employees.  Depending on the preferences (profile) of the new hire, the estate agent usually provides the best matches based on the experience (classical approach). However the experience only reflects the past without a projection into the future.
 
@@ -11,7 +11,7 @@ The business need: optimize the rent of the temporary accommodation. Better matc
 
 In this project, I used Berlin as a place to move in.
 
-## Description of the data and how it will be used to solve the problem
+### Description of the data and how it will be used to solve the problem
 
 Based on the predefined categories (crimes, schools rental costs, venues) collect corresponding data sets (four in total).
 Travel sites on the Internet, e.g., FourSquare www.foursquare.com, are ideally  to collect data on city venues;
@@ -37,7 +37,7 @@ School data were collected as follows:
 2. Scrap for the top school in the borough.
 
 
-### Data Preparation 
+#### Data Preparation 
 
 The purpose of this step is a transformation of the collected data into a useable subset.  It composes reading in different excel tables, scrubbing the webpages and saving data as pre-processed  in CSV-files. 
 
