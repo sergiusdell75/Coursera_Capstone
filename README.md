@@ -14,10 +14,8 @@ In this project, I used Berlin as a place to move in.
 ### Description of the data and how it will be used to solve the problem
 
 Based on the predefined categories (crimes, schools rental costs, venues) collect corresponding data sets (four in total).
-Travel sites on the Internet, e.g., FourSquare www.foursquare.com, are ideally  to collect data on city venues;
-Governments sites are suitable to collect data about historical crimes;
-Real estate agency sites are preferable for scrapping the average monthly rent;
-Local council sites are a good candidate to collect data on the schools, i.e., OFSTED reports.
+Travel sites on the Internet, e.g., FourSquare www.foursquare.com, are ideally  to collect data on city venues.
+Governments sites are suitable to collect data about historical crimes. Real estate agency sites are preferable for scrapping the average monthly rent. Local council sites are a good candidate to collect data on the schools, i.e., OFSTED reports.
 
 
 Venue data were collected data as followed: 
