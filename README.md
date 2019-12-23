@@ -27,8 +27,8 @@ Crime data were collected as follows:
 2. Download corresponding historical data as an excel file.
 
 Rental costs data were collected as follows:
-1. Use
-2. Scrap for the average monthly rental costs.
+1. Use https://www.wohnungsboerse.net/mietspiegel-Berlin/2825
+2. Scrap for the average monthly rental costs per square meter.
 
 School data were collected as follows:
 1. Use https://www.gymnasium-berlin.net/abiturdaten/2018
