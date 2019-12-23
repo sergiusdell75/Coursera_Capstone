@@ -45,5 +45,5 @@ School data: scrap for grades using  BeautifulSoup. Save data frames to csv file
 
 Rental costs data: scrap for avarage rental costs using  BeautifulSoup. Save data frames to csv files.
 
-Venue data:
+Venue data: post codes for different were collected using https://www.berlinstadtservice.de/xinh/Postleitzahlen_Berlin_Alphabetisch.html
 
