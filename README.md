@@ -43,7 +43,7 @@ Crime data: the excel table was read in. The first two sheets were ignored. The 
 
 School data: scrap for grades using  BeautifulSoup. Save data frames to csv files.
 
-Rental costs data:
+Rental costs data: scrap for avarage rental costs using  BeautifulSoup. Save data frames to csv files.
 
 Venue data:
 
