@@ -45,7 +45,7 @@ School data: scrap for grades using  BeautifulSoup. Save data frames to csv file
 
 Rental costs data: scrap for avarage rental costs using  BeautifulSoup. Save data frames to csv files.
 
-Venue data: geographical information consisting post codes for Berlin was collected using https://www.berlinstadtservice.de/xinh/Postleitzahlen_Berlin_Alphabetisch.html Using BeautifulSoup and Requests the results of the Top Pick for Brelin-Mitte was retrieved.
+Venue data: geographical information consisting post codes for Berlin was collected using https://www.berlinstadtservice.de/xinh/Postleitzahlen_Berlin_Alphabetisch.html Using BeautifulSoup and Requests the results of the Top Pick for Brelin-Mitte were retrieved.
 
 All temporary data frames will be merged into one frame consists of the folowing columns:
 Borough, Neighborhood, Longitude, Latitude, School grade, Rental costs, Crime records.
