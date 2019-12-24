@@ -31,21 +31,21 @@ Rental costs data were collected as follows:
 2. Scrap for the average monthly rental costs per square meter.
 
 School data were collected as follows:
-1. Use https://www.gymnasium-berlin.net/abiturdaten/2018
-2. Scrap for the avarage grade of schools in the borough for years 2012-2018
+1. Use https://www.gymnasium-berlin.net/abiturdaten/2018 to collect unformation on the avarage grade. Use https://www.gymnasium-berlin.net/adressliste to collect information on the postcodes. 
+2. Scrap for the avarage grade of schools in the borough for years 2012-2018.
 
 
 #### Data Preparation 
 
 The purpose of this step is a transformation of the collected data into a useable subset.  It composes reading in different excel tables, scrubbing the webpages and saving data as pre-processed  in CSV-files. 
 
-Crime data: the excel table was read in. The first two sheets were ignored. The sheets named  „Fallzahlen\*“  were transformed into panda data frames. The first four rows were dropped in every data frame.  The columns were renamed by translating into english.
+Crime data: the excel table was read in. The first two sheets were ignored. The sheets named  „Fallzahlen\*“  were transformed into panda data frames. The first four rows were dropped in every data frame.  The columns were renamed by translating into english. The data frame was saved to an csv file.
 
-School data: scrap for grades using  BeautifulSoup. Save data frames to csv files.
+School data: scraping for grades using  BeautifulSoup. Grade data and post codes were merged into a single data frame, which was saved to an csv file.
 
-Rental costs data: scrap for avarage rental costs using  BeautifulSoup. Save data frames to csv files.
+Rental costs data: scraping for avarage rental costs using  BeautifulSoup. Rental costs and  post codes were merged into a single data frame, which was saved to an csv file.
 
 Venue data: geographical information consisting post codes for Berlin was collected using https://www.berlinstadtservice.de/xinh/Postleitzahlen_Berlin_Alphabetisch.html Using BeautifulSoup and Requests the results of the Top Pick for Brelin-Mitte were retrieved.
 
-All temporary data frames will be merged into one frame consists of the folowing columns:
+All temporary data frames were merged into one frame consists of the folowing columns:
 Borough, Neighborhood, Longitude, Latitude, School grade, Rental costs, Crime records.
