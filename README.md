@@ -1,5 +1,4 @@
-# Coursera_Capstone
- This notebook will mainly be used for the capstone project
+# Introduction
 
 ### Description of the problem and a discussion of the background
 
@@ -34,6 +33,7 @@ School data were collected as follows:
 1. Use https://www.gymnasium-berlin.net/abiturdaten/2018 to collect unformation on the avarage grade. Use https://www.gymnasium-berlin.net/adressliste to collect information on the postcodes. 
 2. Scrap for the avarage grade of schools in the borough for years 2012-2018.
 
+# Data
 
 #### Data Preparation 
 
@@ -54,5 +54,22 @@ Borough, Neighborhood, Longitude, Latitude, School grade, Rental costs, Crime re
 #### Data visualization and descriptive statistics
 
 Descriptive statistics are brief descriptive quantities that summarize a given data set and also allow to provide the first insights on the data. Among others: mean, std, min, max, quantiles. They descriptive statistic could directly be obtained by df.describe(). 
+
+# Methodology
+
+The part consists of two subparts: descriptive data analysis and modeling and evaluation.
+
+#### Descriptive data analysis: 
+
+#### Modeling and Evaluation: Prediction of crime.  Clustering based on 4 factors. Prediction
+
+# Deployment and results
+
+In the deployment step, the model is used on new data outside of the scope of the dataset and by new stakeholders. The new interactions at this phase might reveal the new variables and needs for the dataset and model. These new challenges could initiate revision of either business needs and actions, or the model and data, or both.
+
+# Discussion
+
+
+# Conclusion
 
 
