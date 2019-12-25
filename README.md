@@ -57,11 +57,13 @@ Descriptive statistics are brief descriptive quantities that summarize a given d
 
 # Methodology
 
-The part consists of two subparts: descriptive data analysis and modeling and evaluation.
+The part consists of two subparts: descriptive data analysis and inference statistics, modeling and evaluation.
 
 #### Descriptive data analysis: 
 
-#### Modeling and Evaluation: Prediction of crime.  Clustering based on 4 factors. Prediction
+#### Modeling and Evaluation:
+
+Prediction of crime.  Clustering based on 4 factors. Prediction
 
 # Deployment and results
 
