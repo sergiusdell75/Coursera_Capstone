@@ -49,3 +49,10 @@ Venue data: geographical information consisting post codes for Berlin was collec
 
 All temporary data frames were merged into one frame consists of the folowing columns:
 Borough, Neighborhood, Longitude, Latitude, School grade, Rental costs, Crime records.
+
+
+#### Data visualization and descriptive statistics
+
+Descriptive statistics are brief descriptive quantities that summarize a given data set and also allow to provide the first insights on the data. Among others: mean, std, min, max, quantiles. They descriptive statistic could directly be obtained by df.describe(). 
+
+
