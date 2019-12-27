@@ -6,7 +6,7 @@ A relocation is stressful. Ideally, a new hire should be able to fully concentra
 
 A modern approach based on the data analytics enables to allocate the best possible place for the temporary accommodation based on the following categories: venues,  rental (monthly) costs, crimes, schools (only applies if the new hire has got children). Moreover, the historical data can be used to make some predictions on the neighborhood of the current accommodation,e.g.  w.r.t. crime, to exclude or put a more weight on this particular  neighborhood for the future clients.
 
-The business need: optimize the rent of the temporary accommodation. Better matches imply fully satisfied clients and a quicker turn around. First create a profile of the client based on his current neighborhoud. Then search for a best-fit place for the temporary accommodation. Moreover, predictions about  the  neighborhood could save time in decision making, which implies  a better performance.
+The business need: optimize the rent of the temporary accommodation. Better matches imply fully satisfied clients and a quicker turn around. First create a profile of the client based on his current neighborhood. Then search for a best-fit place for the temporary accommodation. Moreover, predictions about  the  neighborhood could save time in decision making, which implies  a better performance.
 
 In this project, I used Berlin as a place to move in.
 
@@ -30,8 +30,8 @@ Rental costs data were collected as follows:
 2. Scrap for the average monthly rental costs per square meter.
 
 School data were collected as follows:
-1. Use https://www.gymnasium-berlin.net/abiturdaten/2018 to collect unformation on the avarage grade. Use https://www.gymnasium-berlin.net/adressliste to collect information on the postcodes. 
-2. Scrap for the avarage grade of schools in the borough for years 2012-2018.
+1. Use https://www.gymnasium-berlin.net/abiturdaten/2018 to collect information on the average grade. Use https://www.gymnasium-berlin.net/adressliste to collect information on the post codes. 
+2. Scrap for the average grade of schools in the borough for years 2012-2018.
 
 # Data
 
@@ -43,9 +43,9 @@ Crime data: the excel table was read in. The first two sheets were ignored. The 
 
 School data: scraping for grades using  BeautifulSoup. Grade data and post codes were merged into a single data frame, which was saved to an csv file.
 
-Rental costs data: scraping for avarage rental costs using  BeautifulSoup. Rental costs and  post codes were merged into a single data frame, which was saved to an csv file.
+Rental costs data: scraping for average rental costs using  BeautifulSoup. Rental costs and  post codes were merged into a single data frame, which was saved to an csv file.
 
-Venue data: geographical information consisting post codes for Berlin was collected using https://www.berlinstadtservice.de/xinh/Postleitzahlen_Berlin_Alphabetisch.html Using BeautifulSoup and Requests the results of the Top Pick for Brelin-Mitte were retrieved.
+Venue data: geographical information consisting post codes for Berlin was collected using https://www.berlinstadtservice.de/xinh/Postleitzahlen_Berlin_Alphabetisch.html Using BeautifulSoup and Requests the results of the Top Pick for Charlottenburg-Wilmersdorf were retrieved.
 
 All temporary data frames were merged into one frame consists of the folowing columns:
 Borough, Neighborhood, Longitude, Latitude, School grade, Rental costs, Crime records.
@@ -90,4 +90,7 @@ In the deployment step, the model is used on new data outside of the scope of th
 
 # Conclusion
 
-
+# Appendix
+1. data preparation;
+2. data visualizaton;
+3. methodology and results;
