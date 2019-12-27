@@ -55,6 +55,8 @@ Borough, Neighborhood, Longitude, Latitude, School grade, Rental costs, Crime re
 
 Descriptive statistics are brief descriptive quantities that summarize a given data set and also allow to provide the first insights on the data. Among others: mean, std, min, max, quantiles. They descriptive statistic could directly be obtained by df.describe(). 
 
+![alt text](https://raw.githubusercontent.com/sergiusdell75/Coursera_Capstone/data_images/img.png)
+
 # Methodology
 I use the following machine learning methods: k-nearest neighbors algorithm (k-NN), linear regression, k-means clustering and agglomerative clustering. Below a brief description of used methods is given.
 
