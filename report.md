@@ -3735,7 +3735,7 @@ cw_grouped.head(3)
 </div>
 
 
-
+# Results
 
 
 ##### create map of clustered neighborhoods in Charlottenburg-Wilmersdorf
