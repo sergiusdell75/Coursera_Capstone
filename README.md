@@ -74,25 +74,4 @@ k-NN is a type of instance-based learning, or lazy learning, where the function 
     1. Agglomerative: This is a "bottom-up" approach: each observation starts in its own cluster, and pairs of clusters are merged as one moves up the hierarchy.
     2. Divisive: This is a "top-down" approach: all observations start in one cluster, and splits are performed recursively as one moves down the hierarchy.
 
-In general, the merges and splits are determined in a greedy manner. The results of hierarchical clustering are usually presented in a dendrogram. 
-The part consists of two subparts: descriptive data analysis and inference statistics, modeling and evaluation.
-
-#### Descriptive data analysis: 
-
-#### Modeling and Evaluation:
-
-Prediction of crime.  Clustering based on 4 factors. Prediction
-
-# Deployment and results
-
-In the deployment step, the model is used on new data outside of the scope of the dataset and by new stakeholders. The new interactions at this phase might reveal the new variables and needs for the dataset and model. These new challenges could initiate revision of either business needs and actions, or the model and data, or both.
-
-# Discussion
-
-
-# Conclusion
-
-# Appendix
-1. data preparation;
-2. data visualizaton;
-3. methodology and results;
+In general, the merges and splits are determined in a greedy manner. The results of hierarchical clustering are usually presented in a dendrogram.
