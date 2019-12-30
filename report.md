@@ -283,13 +283,13 @@ Descriptive statistics are brief descriptive quantities that summarize a given d
 #### Display a bar chart of total crime records in a particular borough, Charlottenburg-Wilmersdorf, produce a bar chart
 
 
-![png](output_6_1.png)
+![png](https://github.com/sergiusdell75/Coursera_Capstone/blob/master/images/output_6_1.png)
 
 
 
 #### Display  pie diagram for Kurfürstendamm
 
-![png](output_8_0.png)
+![png](https://github.com/sergiusdell75/Coursera_Capstone/blob/master/images/output_8_0.png)
 
 
 
@@ -297,12 +297,12 @@ Descriptive statistics are brief descriptive quantities that summarize a given d
 
 
 
-![png](output_9_0.png)
+![png](https://github.com/sergiusdell75/Coursera_Capstone/blob/master/images/output_9_0.png)
 
 
 #### Creating a crime weather map of Charlottenburg-Wilmersdorf
 
-![png](mapcrime.png)
+![png](https://github.com/sergiusdell75/Coursera_Capstone/blob/master/images/mapcrime.png)
 
 1) Read:very high crime rate;
 
@@ -362,7 +362,7 @@ Descriptive statistics are brief descriptive quantities that summarize a given d
 #### Display map of the grammar schools in the borough
 
 
-![png](mapschool.png)
+![png](https://github.com/sergiusdell75/Coursera_Capstone/blob/master/images/mapschool.png)
 
 1) Read: lower average grade of graduates;
 
@@ -448,7 +448,7 @@ Descriptive statistics are brief descriptive quantities that summarize a given d
 #### Display map of the grammar schools in the borough
 
 
-![png](maprents.png)
+![png](https://github.com/sergiusdell75/Coursera_Capstone/blob/master/images/maprents.png)
 
 1) Read: high rental costs;
 
@@ -515,7 +515,7 @@ Descriptive statistics are brief descriptive quantities that summarize a given d
 
 #### Create map of CW using latitude and longitude values
 
-![png](mapvenue.png)
+![png](https://github.com/sergiusdell75/Coursera_Capstone/blob/master/images/mapvenue.png)
 
 
 <div>
@@ -701,7 +701,7 @@ Descriptive statistics are brief descriptive quantities that summarize a given d
 
 #### display the total count of  venues in every neighborhood
 
-![png](output_45_1.png)
+![png](https://github.com/sergiusdell75/Coursera_Capstone/blob/master/images/output_45_1.png)
 
 
 
@@ -970,7 +970,7 @@ weightedRents[0:5]
 
 #### comparing polynomial regressions of 1 and 3.th order
 
-![png](linearregrs.png)
+![png](https://github.com/sergiusdell75/Coursera_Capstone/blob/master/images/linearregrs.png)
 
 
 
@@ -3740,7 +3740,7 @@ cw_grouped.head(3)
 
 ##### create map of clustered neighborhoods in Charlottenburg-Wilmersdorf
 
-![png](basemap1.png)
+![png](https://github.com/sergiusdell75/Coursera_Capstone/blob/master/images/basemap1.png)
 
 #### Examine Cluster 1
 <div>
@@ -4007,7 +4007,7 @@ cw_grouped.head(3)
 
 ##### create map of clustered neighborhoods in Charlottenburg-Wilmersdorf
 
-![png](basemap2.png)
+![png](https://github.com/sergiusdell75/Coursera_Capstone/blob/master/images/basemap2.png)
 
 # Discussion
 Within the project I combined four different type of information sources: crime, rental, school, venue into a single data set. This data set was used to cluster the neighborhoods in a borough of Berlin, namely Charlottenburg-Wilmersdorf. Using additional information to venues allows one for a more accurate estimate of the temporal accommodation for the new hire. Certainly, clustering the current location of the potential new hire should be done prior and this information should be used for a prediction of the best-fit based on more complex algorithms. Also using data from  different social activities of the client and including more information sources will help to improve the accuracy and reliability of the accommodation prediction.
