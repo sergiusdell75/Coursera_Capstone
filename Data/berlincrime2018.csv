@@ -1,0 +1,151 @@
+,Borough,Neighborhood,Total records,Robbery,Street robbery,Total physical injury,Serious bodily harm,Coercion,Total theft,Bicycle theft,Burglary,Property damage,Drug offenses
+1,Mitte,Tiergarten Süd,5171,70,58,416,125,103,2540,310,39,284,273
+2,Mitte,Regierungsviertel,9146,34,16,519,110,114,3883,372,35,407,133
+3,Mitte,Alexanderplatz,19275,130,80,1531,366,309,10144,880,133,1036,971
+4,Mitte,Brunnenstraße Süd,4207,26,14,286,60,69,1817,314,56,442,69
+5,Mitte,Moabit West,7257,71,38,653,164,215,2470,447,83,496,435
+6,Mitte,Moabit Ost,9361,61,38,689,150,210,3620,361,73,435,473
+7,Mitte,Osloer Straße,6075,77,42,752,205,250,2624,260,73,439,217
+8,Mitte,Brunnenstraße Nord,6413,68,41,642,170,224,2536,273,87,551,387
+9,Mitte,Parkviertel,6201,55,26,754,183,243,2690,363,88,562,125
+10,Mitte,Wedding Zentrum,8232,90,54,958,247,243,3252,434,108,710,534
+11,Mitte,"Bezirk (Mi), nicht zuzuordnen",3889,51,42,250,74,88,2226,159,0,166,175
+13,Friedrichshain-Kreuzberg,Südliche Friedrichstadt,8356,99,56,628,179,207,3646,445,114,564,798
+14,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,10680,95,54,819,269,239,5959,1216,139,785,310
+15,Friedrichshain-Kreuzberg,nördliche Luisenstadt,4882,71,49,483,183,105,2190,293,84,380,522
+16,Friedrichshain-Kreuzberg,südliche Luisenstadt,5369,104,80,452,183,101,2031,468,63,376,934
+17,Friedrichshain-Kreuzberg,Karl-Marx-Allee-Nord,2315,17,7,197,45,77,1174,244,46,256,40
+18,Friedrichshain-Kreuzberg,Karl-Marx-Allee-Süd,6644,82,63,690,227,109,2913,358,35,441,664
+19,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,4140,24,13,389,120,97,1792,394,48,534,92
+20,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,9484,95,64,943,332,176,3622,714,103,1017,1122
+21,Friedrichshain-Kreuzberg,"Bezirk (Fh-Kb), nicht zuzuordnen",1939,45,40,138,49,34,1057,121,0,114,143
+23,Pankow,Buch,1477,11,2,179,37,72,635,144,13,176,33
+24,Pankow,Blankenfelde/Niederschönhausen,1672,10,6,124,15,46,800,200,40,153,16
+25,Pankow,Buchholz,789,6,3,70,10,28,329,58,23,92,9
+26,Pankow,Karow,870,4,2,84,20,29,418,126,34,107,13
+27,Pankow,Blankenburg/Heinersdorf/Märchenland,1329,7,4,94,21,36,693,102,59,131,12
+28,Pankow,Schönholz/Wilhelmsruh/Rosenthal,990,10,6,77,20,30,450,50,48,98,14
+29,Pankow,Pankow Zentrum,3303,27,19,207,46,93,1854,580,63,296,43
+30,Pankow,Pankow Süd,2503,35,23,219,52,94,1070,387,63,260,40
+31,Pankow,Weißensee,3017,21,12,327,88,127,1399,278,63,336,47
+32,Pankow,Weißensee Ost,1264,11,5,124,25,45,536,86,24,150,42
+33,Pankow,Prenzlauer Berg Nordwest,3157,47,24,293,109,77,1468,365,39,292,175
+34,Pankow,Prenzlauer Berg Nord,2755,24,13,190,49,79,1450,439,39,264,54
+35,Pankow,Helmholtzplatz,2276,14,4,190,55,60,1016,296,23,279,49
+36,Pankow,Prenzlauer Berg Ost,4481,37,15,371,78,77,2098,309,68,439,71
+37,Pankow,Prenzlauer Berg Südwest,3408,22,14,340,75,71,1774,378,57,343,47
+38,Pankow,Prenzlauer Berg Süd,2375,14,8,157,36,51,1218,318,55,267,39
+39,Pankow,"Bezirk (Pk), nicht zuzuordnen",1160,20,17,63,17,29,553,144,0,77,42
+41,Charlottenburg-Wilmersdorf,Charlottenburg-Nord,2532,23,6,279,84,107,1030,123,51,232,185
+42,Charlottenburg-Wilmersdorf,Heerstrasse,1530,16,9,178,64,39,656,75,89,139,49
+43,Charlottenburg-Wilmersdorf,Westend,3915,25,16,318,83,119,2188,213,79,243,45
+44,Charlottenburg-Wilmersdorf,Schloß Charlottenburg,2441,18,10,282,62,87,1062,190,52,261,37
+45,Charlottenburg-Wilmersdorf,Mierendorffplatz,1976,7,3,158,35,75,847,126,27,121,50
+46,Charlottenburg-Wilmersdorf,Otto-Suhr-Allee,4664,38,20,445,105,151,2266,421,62,399,65
+47,Charlottenburg-Wilmersdorf,Neue Kantstraße,2996,33,19,252,58,78,1534,269,66,222,57
+48,Charlottenburg-Wilmersdorf,Kantstraße,4191,38,15,284,54,85,2457,274,75,217,56
+49,Charlottenburg-Wilmersdorf,Kurfürstendamm,8120,62,31,760,218,154,4351,264,46,387,173
+50,Charlottenburg-Wilmersdorf,Halensee,2079,13,4,136,26,39,1130,123,33,108,16
+51,Charlottenburg-Wilmersdorf,Grunewald,1754,12,5,89,18,56,793,96,87,235,15
+52,Charlottenburg-Wilmersdorf,Schmargendorf,1009,4,1,60,10,28,567,54,50,91,18
+53,Charlottenburg-Wilmersdorf,Wiesbadener Straße,1061,10,3,94,16,29,579,179,18,96,15
+54,Charlottenburg-Wilmersdorf,Düsseldorfer Straße,4094,40,15,242,58,108,2210,337,107,363,70
+55,Charlottenburg-Wilmersdorf,Barstraße,1634,15,5,130,25,63,794,169,27,98,45
+56,Charlottenburg-Wilmersdorf,Volkspark Wilmersdorf,6182,27,13,216,61,96,2129,471,64,259,75
+57,Charlottenburg-Wilmersdorf,Forst Grunewald,105,7,4,22,3,6,32,1,0,9,0
+58,Charlottenburg-Wilmersdorf,"Bezirk (Ch-Wi), nicht zuzuordnen",1377,29,26,102,31,57,749,89,0,78,53
+60,Spandau,Hakenfelde,1918,16,11,202,56,55,864,58,16,193,26
+61,Spandau,Falkenhagener Feld,2754,35,24,427,92,154,1012,174,41,296,53
+62,Spandau,Spandau Mitte,5830,104,61,701,183,214,2227,270,38,425,224
+63,Spandau,Brunsbütteler Damm,1703,12,8,210,49,73,765,88,42,177,25
+64,Spandau,Heerstraße Nord,2516,33,17,350,74,148,949,57,50,239,44
+65,Spandau,Wilhelmstadt,6258,56,27,666,185,208,2681,234,57,451,134
+66,Spandau,Haselhorst,1619,15,9,170,25,63,772,56,24,133,24
+67,Spandau,Siemensstadt,1572,17,6,152,34,46,773,169,31,128,17
+68,Spandau,Gatow/Kladow,931,7,3,104,21,58,395,38,66,82,11
+69,Spandau,"Bezirk (Sp), nicht zuzuordnen",752,20,18,64,22,40,364,45,0,70,26
+71,Steglitz-Zehlendorf,Schloßstr.,3551,24,15,205,45,60,2152,302,33,191,50
+72,Steglitz-Zehlendorf,Albrechtstr.,3104,24,10,250,51,132,1440,300,90,331,69
+73,Steglitz-Zehlendorf,Lankwitz,3049,19,4,386,81,175,1167,130,76,290,84
+74,Steglitz-Zehlendorf,Ostpreußendamm,2300,19,8,199,31,94,1034,163,91,262,38
+75,Steglitz-Zehlendorf,Teltower Damm,2411,14,7,180,30,86,1135,344,74,242,55
+76,Steglitz-Zehlendorf,Drakestr.,3340,10,3,255,44,110,1759,351,85,329,45
+77,Steglitz-Zehlendorf,Zehlendorf Südwest,2045,6,4,164,40,48,912,142,49,312,32
+78,Steglitz-Zehlendorf,Zehlendorf Nord,3211,14,7,181,40,85,1668,309,165,449,60
+79,Steglitz-Zehlendorf,"Bezirk (St-Zd), nicht zuzuordnen",657,7,5,42,11,31,366,81,0,46,27
+81,Tempelhof-Schöneberg,Schöneberg-Nord,10683,117,74,801,239,228,6218,598,132,590,459
+82,Tempelhof-Schöneberg,Schöneberg-Süd,7454,43,17,542,130,214,3553,690,115,586,259
+83,Tempelhof-Schöneberg,Friedenau,4044,23,10,266,70,110,2279,437,88,360,56
+84,Tempelhof-Schöneberg,Tempelhof,8708,57,24,652,151,261,3729,504,134,812,358
+85,Tempelhof-Schöneberg,Mariendorf,4110,28,16,363,76,131,1760,187,119,457,82
+86,Tempelhof-Schöneberg,Marienfelde,2394,22,12,212,48,87,1056,90,52,211,61
+87,Tempelhof-Schöneberg,Lichtenrade,3026,25,13,352,61,113,1147,99,106,367,76
+88,Tempelhof-Schöneberg,"Bezirk (Th-Sb), nicht zuzuordnen",1161,21,17,84,20,47,692,103,0,58,35
+90,Neukölln,Schillerpromenade,5118,80,46,530,181,121,2316,229,86,431,371
+91,Neukölln,Neuköllner Mitte/Zentrum,8416,106,56,703,214,182,4453,376,67,589,332
+92,Neukölln,Reuterstraße,6116,53,28,584,210,136,2889,401,69,492,331
+93,Neukölln,Rixdorf,4840,33,18,533,144,198,2086,318,88,516,236
+94,Neukölln,Köllnische Heide,2599,25,7,261,74,103,1124,45,42,367,88
+95,Neukölln,Britz,4753,70,41,440,97,203,2071,181,132,514,94
+96,Neukölln,Buckow,1624,16,7,201,41,101,566,36,42,194,34
+97,Neukölln,Gropiusstadt,3645,55,32,399,95,149,1881,101,67,337,48
+98,Neukölln,Buckow Nord,882,10,6,78,14,43,444,35,14,58,11
+99,Neukölln,Rudow,2543,33,22,220,49,98,1100,89,127,310,32
+100,Neukölln,"Bezirk (Nk), nicht zuzuordnen",1145,24,23,81,34,45,632,38,2,62,56
+102,Treptow-Köpenick,Alt-Treptow,2276,31,21,155,32,43,1305,290,21,182,77
+103,Treptow-Köpenick,Plänterwald,920,16,8,67,15,25,412,76,17,96,15
+104,Treptow-Köpenick,Baumschulenweg,1643,12,2,140,32,70,836,118,77,167,22
+105,Treptow-Köpenick,Johannisthal,1414,5,3,137,20,77,578,92,29,170,19
+106,Treptow-Köpenick,Oberschöneweide,2456,16,8,355,78,105,892,115,26,268,81
+107,Treptow-Köpenick,Niederschöneweide,2424,31,18,216,39,63,1115,137,17,206,108
+108,Treptow-Köpenick,Adlershof,2329,19,9,189,44,54,1193,234,35,249,46
+109,Treptow-Köpenick,Köllnische Vorstadt/Spindlersfeld,865,9,3,112,21,40,324,76,13,114,35
+110,Treptow-Köpenick,Altglienicke,1635,10,7,179,28,72,674,101,68,183,34
+111,Treptow-Köpenick,Bohnsdorf,1016,7,4,119,16,32,437,51,36,88,7
+112,Treptow-Köpenick,Grünau,606,3,1,29,5,14,268,87,16,117,5
+113,Treptow-Köpenick,Schmöckwitz/Karolinenhof/Rauchfangswerder,184,0,0,17,1,3,74,12,8,21,3
+114,Treptow-Köpenick,Köpenick-Süd,844,0,0,84,14,32,345,61,36,114,10
+115,Treptow-Köpenick,Allende-Viertel,367,4,2,28,5,21,174,29,6,46,7
+116,Treptow-Köpenick,Altstadt-Kietz,689,2,1,120,29,30,211,59,1,98,21
+117,Treptow-Köpenick,Müggelheim,234,2,1,20,4,9,84,13,9,25,5
+118,Treptow-Köpenick,Friedrichshagen,1219,6,5,107,28,30,585,214,13,158,10
+119,Treptow-Köpenick,Rahnsdorf/Hessenwinkel,563,2,0,30,6,15,261,95,24,50,10
+120,Treptow-Köpenick,Dammvorstadt,1475,9,5,143,49,36,659,116,8,146,31
+121,Treptow-Köpenick,Köpenick-Nord,637,13,9,67,10,24,258,76,35,93,13
+122,Treptow-Köpenick,"Bezirk (Tp-Kp), nicht zuzuordnen",973,19,18,86,24,58,460,87,1,82,15
+124,Marzahn-Hellersdorf,Marzahn-Nord,2000,26,20,382,65,77,655,94,18,309,53
+125,Marzahn-Hellersdorf,Marzahn-Mitte,4585,39,22,688,142,193,1679,98,46,469,96
+126,Marzahn-Hellersdorf,Marzahn-Süd,3875,16,8,326,54,132,1378,85,43,350,56
+127,Marzahn-Hellersdorf,Hellersdorf-Nord,4019,26,14,561,104,201,1339,100,35,541,110
+128,Marzahn-Hellersdorf,Hellersdorf-Ost,1660,14,9,277,44,87,493,67,8,231,50
+129,Marzahn-Hellersdorf,Hellersdorf-Süd,2169,16,7,381,88,104,652,98,22,329,50
+130,Marzahn-Hellersdorf,Biesdorf,2124,12,6,149,30,64,1043,184,98,190,27
+131,Marzahn-Hellersdorf,Kaulsdorf,1152,4,2,116,13,39,429,111,31,163,17
+132,Marzahn-Hellersdorf,Mahlsdorf,1296,6,3,113,19,44,572,134,68,162,13
+133,Marzahn-Hellersdorf,"Bezirk (Mz-Hd), nicht zuzuordnen",782,9,9,67,14,27,216,47,1,78,13
+135,Lichtenberg,"Malchow, Wartenberg und Falkenberg",256,3,2,34,6,10,105,13,27,33,2
+136,Lichtenberg,Neu-Hohenschönhausen Nord,2139,17,7,283,56,90,778,68,26,243,79
+137,Lichtenberg,Neu-Hohenschönhausen Süd,2302,24,16,358,79,83,944,105,30,282,44
+138,Lichtenberg,Alt-Hohenschönhausen Nord,1595,8,2,202,48,75,687,43,42,186,32
+139,Lichtenberg,Alt-Hohenschönhausen Süd,2145,11,6,249,47,72,935,117,51,232,32
+140,Lichtenberg,Fennpfuhl,2669,13,8,318,78,114,1134,161,48,300,45
+141,Lichtenberg,Alt-Lichtenberg,4704,34,22,493,118,115,2276,252,40,354,84
+142,Lichtenberg,Frankfurter Allee Süd,2333,11,6,172,42,35,806,101,14,163,85
+143,Lichtenberg,Neu Lichtenberg,3548,30,18,351,75,108,1646,351,69,395,58
+144,Lichtenberg,Friedrichsfelde Nord,1210,8,5,145,27,47,500,66,20,128,21
+145,Lichtenberg,Friedrichsfelde Süd,1868,14,9,161,29,66,808,140,22,200,17
+146,Lichtenberg,Rummelsburger Bucht,495,2,2,29,10,16,295,99,12,41,14
+147,Lichtenberg,Karlshorst,1536,6,4,98,25,53,738,214,66,146,18
+148,Lichtenberg,"Bezirk (Lb), nicht zuzuordnen",804,4,3,42,11,16,322,75,1,62,12
+150,Reinickendorf,Ost 1 - Reginhardstr.,2572,32,12,340,74,126,896,110,62,242,63
+151,Reinickendorf,Ost 2 - Alt-Reinickendorf,3408,36,15,285,58,143,1415,120,67,303,135
+152,Reinickendorf,West 1 - Tegel-Süd/Flughafensee,4996,11,4,271,72,107,825,41,37,170,209
+153,Reinickendorf,West 4 - Auguste-Viktoria-Allee,3429,28,16,422,101,149,1309,78,46,281,83
+154,Reinickendorf,West 5 - Tegel/Tegeler Forst,2045,19,8,196,50,72,968,70,28,181,35
+155,Reinickendorf,West 2 - Heiligensee/Konradshöhe,970,7,3,93,19,39,385,46,67,87,32
+156,Reinickendorf,Nord 1 - Frohnau/Hermsdorf,2079,13,3,136,29,57,989,187,160,203,32
+157,Reinickendorf,Nord 2 - Waidmannslust/Wittenau/Lübars,3074,25,11,375,98,144,1168,132,97,311,95
+158,Reinickendorf,MV 1 - Märkisches Viertel,3125,44,22,464,101,184,1135,69,34,269,95
+159,Reinickendorf,MV 2 - Rollbergsiedlung,859,5,2,102,21,51,298,24,19,107,18
+160,Reinickendorf,West 3 - Borsigwalde/Freie Scholle,1135,6,3,94,21,50,506,59,55,136,18
+161,Reinickendorf,"Bezirk (Rd), nicht zuzuordnen",1571,12,10,100,21,38,736,52,1,63,33
